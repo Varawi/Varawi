@@ -1,5 +1,7 @@
-### Hi there 👋
-I'm Varawi, new in programming
+<a href="https://github.com/Varawi"><img src="https://github.com/BlueBerrySans365/BlueBerrySans365/blob/master/assets/images/logo2.jpg" style="width:307px;height:921px;"></a>
+
+[![Var's github stats](https://github-readme-stats.vercel.app/api?username=Varawi&show_icons=true&theme=tokyonight&custom_title=Varawi)](https://github.com/Varawi)
+
 
 <!--
 **Varawi/Varawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
